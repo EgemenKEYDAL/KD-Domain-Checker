@@ -1,0 +1,32 @@
+────────────────────────────────────────────
+KD - Domain Check System
+Copyright (c) Egemen KEYDAL
+────────────────────────────────────────────
+
+🇹🇷 TÜRKÇE LİSANS METNİ
+────────────────────────
+Bu yazılım **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** lisansı ile korunmaktadır.
+
+Koşullar:
+- Yazılım ticari amaçlarla kullanılamaz.
+- Kod üzerinde değişiklik yapılabilir, paylaşılabilir ve yeniden dağıtılabilir.
+- Geliştirici adı “Egemen KEYDAL” proje dosyalarından kaldırılamaz veya gizlenemez.
+- Türetilen çalışmalar da aynı lisans altında paylaşılmalıdır.
+
+Tam lisans metni için:
+https://creativecommons.org/licenses/by-nc/4.0/
+
+────────────────────────────────────────────
+
+🇬🇧 ENGLISH LICENSE TEXT
+────────────────────────
+This software is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+Conditions:
+- The software may not be used for commercial purposes.
+- You may copy, modify, and redistribute the code.
+- The developer name “Egemen KEYDAL” must remain visible in all versions.
+- Derived works must be shared under the same license.
+
+Full license text:
+https://creativecommons.org/licenses/by-nc/4.0/
