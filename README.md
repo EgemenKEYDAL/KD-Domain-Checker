@@ -1,4 +1,4 @@
-# KD - Domain Check System 🌐
+# [KD - Domain Check System](https://www.egemenkeydal.com/scripts/kd-domain-checker) 🌐
 
 **KD - Domain Check System**, PHP ile geliştirilmiş gelişmiş bir **alan adı sorgulama (WHOIS)** sistemidir.  
 Bir alan adının kayıtlı olup olmadığını, kayıt ve sona erme tarihlerini, kayıt şirketini ve nameserver bilgilerini anlık olarak görüntüler.  
